@@ -1,3 +1,3 @@
 # new repo
-This from local repo.
+This from local repo
 
